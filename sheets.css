@@ -1,0 +1,22 @@
+h1{
+font-size:30;
+}
+button{
+text-align:center;
+}
+tr
+{
+text-align:center;
+}
+button
+{
+position:relative;
+text-align:center;
+width:100px;
+padding:3px;
+font-family:arial;
+font-weight:400;
+border:5px neon;
+cursor:pointer;
+border-radius:100px;
+}
